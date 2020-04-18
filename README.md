@@ -22,9 +22,9 @@ NLP-блок курса "Современный анализ данных" (ФК
 
 **Занятие 4: Языковые модели. Статистические и нейросетевые языковые модели.** 
 
-- Языковые модели и генерация текста на марковских цепях [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/maryszmary/DPO_2020/blob/master/8/LM.ipynb)
-- Языковые модели и генерация текста на LSTM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://github.com/maryszmary/nlp-netology/blob/master/6/language_models.ipynb)
-- Тематическое моделирование [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maryszmary/nlp-netology/blob/master/3/topic_modelling.ipynb)
+- Языковые модели и генерация текста на марковских цепях [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maryszmary/NLP_DPO_2020/blob/master/sem_04/LM_markov_chains.ipynb)
+- Языковые модели и генерация текста на LSTM [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maryszmary/NLP_DPO_2020/blob/master/sem_04/LM_RNN.ipynb)
+- Тематическое моделирование [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/maryszmary/NLP_DPO_2020/blob/master/sem_04/topic_modelling.ipynb)
 
 
 **Занятие 5**
